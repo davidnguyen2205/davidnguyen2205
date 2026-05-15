@@ -1,11 +1,4 @@
-██████╗  █████╗ ██╗   ██╗███████╗    ███╗   ██╗ ██████╗ ██╗   ██╗██╗   ██╗███████╗███╗   ██╗
-██╔══██╗██╔══██╗██║   ██║██╔════╝    ████╗  ██║██╔════╝ ██║   ██║╚██╗ ██╔╝██╔════╝████╗  ██║
-██║  ██║███████║██║   ██║█████╗      ██╔██╗ ██║██║  ███╗██║   ██║ ╚████╔╝ █████╗  ██╔██╗ ██║
-██║  ██║██╔══██║╚██╗ ██╔╝██╔══╝      ██║╚██╗██║██║   ██║██║   ██║  ╚██╔╝  ██╔══╝  ██║╚██╗██║
-██████╔╝██║  ██║ ╚████╔╝ ███████╗    ██║ ╚████║╚██████╔╝╚██████╔╝   ██║   ███████╗██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝    ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═══╝
 
-### Product/Project Manager · Ho Chi Minh City 🇻🇳
 
 ---
 
@@ -20,6 +13,8 @@ My work is grounded in shipping real products: distributed systems that handle r
 - 🌐 &nbsp;Passionate about **multi-tenant microservices** done right — isolation, resilience, and observability
 - 🛠️ &nbsp;Advanced Linux user; I live in the terminal as much as in code review
 - 🌏 &nbsp;Based in **Ho Chi Minh City**, working across Vietnamese and global engineering contexts
+
+### Product/Project Manager · Ho Chi Minh City 🇻🇳
 
 ---
 

@@ -8,6 +8,7 @@
 ██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝    ██║ ╚████║╚██████╔╝╚██████╔╝   ██║   ███████╗██║ ╚████║
 ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝     ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═══╝
 ```
+
 ### Product/Project Manager · Ho Chi Minh City 🇻🇳
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+cloud-native+SaaS+products+with+great+teams;PM+who+still+loves+the+terminal;Microservices%2C+multi-tenancy%2C+and+making+things+scale)](https://git.io/typing-svg)
